@@ -1,0 +1,1 @@
+PatientPosDTO(id=1, firstName=testName, lastName=testLastName, position=5, patientId=2)
