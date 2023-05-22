@@ -1,0 +1,2 @@
+PatientDTO(id=1, firstName=testName2, lastName=testLastName2, patientPosDTOList=[])
+PatientDTO(id=2, firstName=testName2, lastName=testLastName2, patientPosDTOList=[PatientPosDTO(id=1, firstName=testName, lastName=testLastName, position=5, patientId=2)])
